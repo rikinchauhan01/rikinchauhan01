@@ -2,7 +2,7 @@
 <h3 align="center">Passionate about leveraging technology to solve real-world problems, I'm a versatile computer science enthusiast currently pursuing my Master's in Applied Computer Science at Concordia University. With a Bachelor's in Computer Engineering and diverse internships, including at ISRO, I've honed my skills in full-stack development, machine learning, and web applications. Experienced in Python, Java, and a myriad of frameworks, I thrive in collaborative environments and embrace challenges with an agile mindset. From optimizing algorithms to building intuitive user interfaces, I strive for innovation and excellence in every project. Let's connect and innovate together!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rikinchauhan01&label=Profile%20views&color=0e75b6&style=flat" alt="rikinchauhan01" /> </p>
-![Profile views](https://visitor-badge.glitch.me/badge?page_id=rikinchauhan01.E-Commerce-Website)
+![Profile views](https://visitor-badge.glitch.me/badge?page_id=rikinchauhan01.rikinchauhan01)
 
 
 
