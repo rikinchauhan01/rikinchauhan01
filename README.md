@@ -2,6 +2,8 @@
 <h3 align="center">Passionate about leveraging technology to solve real-world problems, I'm a versatile computer science enthusiast currently pursuing my Master's in Applied Computer Science at Concordia University. With a Bachelor's in Computer Engineering and diverse internships, including at ISRO, I've honed my skills in full-stack development, machine learning, and web applications. Experienced in Python, Java, and a myriad of frameworks, I thrive in collaborative environments and embrace challenges with an agile mindset. From optimizing algorithms to building intuitive user interfaces, I strive for innovation and excellence in every project. Let's connect and innovate together!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rikinchauhan01&label=Profile%20views&color=0e75b6&style=flat" alt="rikinchauhan01" /> </p>
+![Profile views](https://visitor-badge.glitch.me/badge?page_id=rikinchauhan01.E-Commerce-Website)
+
 
 
 - 🌱 I’m currently learning **Artificial Intelligence and Machine Learning**
@@ -16,7 +18,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/rikin-chauhan-b057641a7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rikin-chauhan-b057641a7" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/rikinchauhan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rikinchauhan" height="30" width="40" /></a>
 </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rikinchauhan01&show_icons=true&locale=en&layout=compact" alt="rikinchauhan01" /></p>
